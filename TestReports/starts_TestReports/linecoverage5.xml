@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='edu.illinois.starts.util.Logger' method='&lt;clinit&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='log(Ljava/util/logging/Level;Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='log(Ljava/util/logging/Level;Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='log(Ljava/util/logging/Level;Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='log(Ljava/util/logging/Level;Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='millsToSeconds(J)Ljava/lang/String;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='millsToSeconds(J)Ljava/lang/String;' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='&lt;init&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='19'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='&lt;init&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='16'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='millsToSeconds(J)Ljava/lang/String;' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='15'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='18'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='17'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='12'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='11'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='14'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='13'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='&lt;clinit&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='&lt;init&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='&lt;init&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testEmptyPathToString()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testEmptyPathToString()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testEmptyPathToString()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testEmptyPathToString()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testEmptyPathToString()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.util.Logger' method='getGlobal()Ledu/illinois/starts/util/Logger;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='setupOnce()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testEmptyPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='getWriter(Ljava/lang/String;)Ljava/io/BufferedWriter;' number='12'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testMultipleClassPath()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='cleanUp()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='11'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='21'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeClassPath(Ljava/lang/String;Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testMultipleClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testPathToString()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='pathToString(Ljava/util/List;)Ljava/lang/String;' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testPathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testSinglePathToString()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testSinglePathToString()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testSinglePathToString()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testSinglePathToString()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testSinglePathToString()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testSinglePathToString(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteClassPath()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteClassPath(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraph()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='writeToGraph([Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='14'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='13'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='12'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='18'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='17'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='16'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='15'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='22'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='21'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='20'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='19'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='26'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='25'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='24'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='23'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='30'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='29'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='28'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='27'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeGraph(Ledu/illinois/yasgl/DirectedGraph;Ljava/lang/String;ZLjava/lang/String;)V' number='40'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraph(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGraphWithRepeatedEdges()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGraphWithRepeatedEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteGrpahWithMultipleEdges()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteGrpahWithMultipleEdges(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='41'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='19'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='18'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='21'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='20'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='23'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='22'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='25'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='24'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='27'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='26'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='29'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='28'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='31'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='30'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='11'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='13'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='12'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='15'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='14'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='17'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='16'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='15'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='16'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='18'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='19'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='11'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='12'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='13'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeTCSimple(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteTCSimple()V' number='14'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteTCSimple(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;Ljava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='20'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='19'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='18'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='17'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='16'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='15'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='14'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='13'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='12'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='11'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.WriterTest' method='testWriteToFile()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='30'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.Writer' method='writeToFile(Ljava/util/Collection;Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.WriterTest.testWriteToFile(edu.illinois.starts.helpers.WriterTest)'/>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraphTest()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraphTest()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraphTest()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraphTest()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraphTest()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilderTest()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToBuilderTestNoFile()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToGraph()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmptyEdgeTest()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='&lt;init&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='&lt;init&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgeToGraph([Ljava/lang/String;)Ljava/util/Collection;' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='&lt;init&gt;()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='&lt;init&gt;()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='&lt;init&gt;()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='25'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='13'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='12'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='15'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='14'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='17'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='16'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='19'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='18'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='setUp()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='9'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='8'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='11'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='10'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgesToBuilder(Ljava/io/File;Ledu/illinois/yasgl/DirectedGraphBuilder;)Ledu/illinois/yasgl/DirectedGraphBuilder;' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='9'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='10'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addMultipleEdgesToBuilder()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEmpytEdgeToBuilderTest()V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='addEdgeToGraph(Ledu/illinois/yasgl/DirectedGraphBuilder;Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilder(Ljava/util/ArrayList;)Ljava/util/Collection;' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='8'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilder(Ljava/util/ArrayList;)Ljava/util/Collection;' number='1'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilder(Ljava/util/ArrayList;)Ljava/util/Collection;' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilder(Ljava/util/ArrayList;)Ljava/util/Collection;' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='7'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilder(Ljava/util/ArrayList;)Ljava/util/Collection;' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='addEdgesToBuilder(Ljava/util/ArrayList;)Ljava/util/Collection;' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='2'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelperTest' method='cleanUp()V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='internAndAddEdge(Ledu/illinois/yasgl/DirectedGraphBuilder;[Ljava/lang/String;)V' number='6'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='internAndAddEdge(Ledu/illinois/yasgl/DirectedGraphBuilder;[Ljava/lang/String;)V' number='4'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='internAndAddEdge(Ledu/illinois/yasgl/DirectedGraphBuilder;[Ljava/lang/String;)V' number='5'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='internAndAddEdge(Ledu/illinois/yasgl/DirectedGraphBuilder;[Ljava/lang/String;)V' number='3'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+<block classname='edu.illinois.starts.helpers.YasglHelper' method='internAndAddEdge(Ledu/illinois/yasgl/DirectedGraphBuilder;[Ljava/lang/String;)V' number='0'><tests>
+<test name='edu.illinois.starts.helpers.YasglHelperTest'/>
+</tests>
+</block>
+</coverage>
