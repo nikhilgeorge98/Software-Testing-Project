@@ -1,7 +1,7 @@
 trial*.sh
 old/*
 logs/*
-TestReports/*
+# TestReports/*
 new
 workshop*
 pomschanged.csv

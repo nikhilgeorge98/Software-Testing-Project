@@ -1,0 +1,10 @@
+XML File 1,XML File 2,Classname,Method,Number,Tests in File 1,Tests in File 2
+linecoverage1.xml,linecoverage10.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage2.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage3.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage4.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage5.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage6.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage7.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage8.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+linecoverage1.xml,linecoverage9.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
