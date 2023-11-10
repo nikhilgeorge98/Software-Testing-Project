@@ -1,0 +1,1 @@
+awk -F ',' '$2 == "Success" {count++; successCount++; print} $2 == "Failure" {count++; failureCount++} END {print "Total: " count; print "Success Count: " successCount; print "Failure Count: " failureCount; print "Pct: " 100*successCount/count}' builds.csv

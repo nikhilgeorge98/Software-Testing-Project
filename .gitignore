@@ -1,1 +1,9 @@
 trial*.sh
+old/*
+logs/*
+TestReports/*
+new
+workshop*
+pomschanged.csv
+*build*.csv
+i*.md
