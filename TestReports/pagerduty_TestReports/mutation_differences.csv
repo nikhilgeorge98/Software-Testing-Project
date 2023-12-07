@@ -1,1 +1,5 @@
-XML File 1,XML File 2,Status,Mutated Class,Mutated Method,Line Number,Mutator,Description,Unique Killing Tests 1,Unique Killing Tests 2,Unique Succeeding Tests 1,Unique Succeeding Tests 2
+XML File 1,XML File 2,Status,Mutated Class,Mutated Method,Line Number,Mutator,Description,Unique Killing Tests 1,Unique Killing Tests 2,Unique Succeeding Tests 1,Unique Succeeding Tests 2,Flaky Tests
+
+Mutated Class,Total Tests,Flaky Tests,Flaky Test List
+
+Test,Differences Count

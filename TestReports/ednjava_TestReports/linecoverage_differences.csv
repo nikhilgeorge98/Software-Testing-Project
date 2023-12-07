@@ -8,3 +8,6 @@ linecoverage1.xml,linecoverage6.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;
 linecoverage1.xml,linecoverage7.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
 linecoverage1.xml,linecoverage8.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
 linecoverage1.xml,linecoverage9.xml,us.bpsm.edn.Symbol,equals(Ljava/lang/Object;)Z,16,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest),None
+
+Block Name,Total Num Tests,Num Flaky Tests,Flaky Tests
+us.bpsm.edn.Symbol::equals(Ljava/lang/Object;)Z::16,1,1,us.bpsm.edn.EdnFormatTest.keywords(us.bpsm.edn.EdnFormatTest)
